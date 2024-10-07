@@ -4,3 +4,6 @@ This is a repository that contains a program that takes medication, time, curren
 
 ## About
 
+## License
+
+This project is protected under MIT license. See LICENSE for more information
